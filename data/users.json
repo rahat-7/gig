@@ -1,0 +1,14 @@
+[
+  {
+    "email": "rahat.fcca@gmail.com",
+    "role": "admin"
+  },
+  {
+    "email": "admin@gig.com.bd",
+    "role": "admin"
+  },
+  {
+    "email": "user@example.com",
+    "role": "user"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "I will design a professional logo",
+    "seller": "Alice Smith",
+    "price": "0",
+    "image": "logo.png"
+  },
+  {
+    "title": "I will do social media marketing",
+    "seller": "John Doe",
+    "price": "00",
+    "image": "marketing.png"
+  },
+  {
+    "title": "I will translate English to Spanish",
+    "seller": "Maria Garcia",
+    "price": "5",
+    "image": "translation.png"
+  },
+  {
+    "title": "I will create an animated explainer",
+    "seller": "Ahmed Khan",
+    "price": "00",
+    "image": "explainer.png"
+  }
+]
