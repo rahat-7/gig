@@ -23,3 +23,4 @@ echo "</section>";
 <div class="earnings-graph">
   <canvas id="earningsChart" width="400" height="200"></canvas>
 </div>
+<button class="cta" onclick="toggleAdmin()">Toggle Admin Tools</button>

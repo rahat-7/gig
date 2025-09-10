@@ -13,3 +13,8 @@
     <button class="cta">Continue</button>
   </div>
 </div>
+<script>
+document.querySelector(".onboarding .cta").addEventListener("click", function () {
+  window.location.href = "index.php#dashboard";
+});
+</script>

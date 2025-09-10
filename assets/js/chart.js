@@ -1,16 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
   const ctx = document.getElementById("earningsChart").getContext("2d");
   new Chart(ctx, {
-    type: "line",
+    type: "bar",
     data: {
       labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
       datasets: [{
-        label: "Earnings",
-        data: [500, 800, 1200, 900, 1500, 2000],
-        borderColor: "#00f6ff",
-        backgroundColor: "rgba(0, 246, 255, 0.1)",
-        tension: 0.3,
-        fill: true
+        label: "Monthly Earnings",
+        data: [520, 800, 1200, 950, 1500, 1730],
+        backgroundColor: "#00f6ff",
+        borderRadius: 4
       }]
     },
     options: {
